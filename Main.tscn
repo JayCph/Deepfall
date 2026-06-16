@@ -7,6 +7,6 @@
 [node name="Main" type="Node2D" unique_id=1954760880]
 script = ExtResource("1_glv2v")
 
-[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1064481414]
+[node name="Player" type="Sprite2D" parent="." unique_id=1064481414]
 texture = ExtResource("2_uu6xs")
 script = ExtResource("3_r0du0")
